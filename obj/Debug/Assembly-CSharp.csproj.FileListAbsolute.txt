@@ -1,0 +1,23 @@
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Assembly-CSharp.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Assembly-CSharp.pdb
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\UnityEditor.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\UnityEngine.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\UnityEngine.Networking.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\UnityEngine.UI.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Mono.Cecil.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Unity.SerializationLogic.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Unity.DataContract.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Unity.UNetWeaver.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Unity.CecilTools.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\UnityEngine.xml
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\UnityEditor.xml
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\UnityEngine.UI.xml
+J:\TCG Heolia\Heolia TCG\Temp\bin\Debug\UnityEngine.Networking.xml
+J:\TCG Heolia\Heolia TCG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+J:\TCG Heolia\Heolia TCG\obj\Debug\Assembly-CSharp.dll
+J:\TCG Heolia\Heolia TCG\obj\Debug\Assembly-CSharp.pdb
+M:\sdfq\Heolia TCG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+M:\sdfq\Heolia TCG\obj\Debug\Assembly-CSharp.dll
